@@ -1,5 +1,7 @@
-### Olá Bão?
-[![Anurag's GitHub stats](https://status-profile-git-main-joaomarcelopdfs-projects.vercel.app/api?username=JoaoMarcelopdf)](https://github.com/JoaoMarcelopdf)
+### Um exótico espécime da raça humana especializado em codigos
+[![Anurag's GitHub stats](https://status-profile-git-main-joaomarcelopdfs-projects.vercel.app/api?username=JoaoMarcelopdf&show_icons=true&theme=radical&rank_icon=github)](https://github.com/JoaoMarcelopdf)
+[![Anurag's GitHub stats](https://status-profile-git-main-joaomarcelopdfs-projects.vercel.app//api/top-langs/?username=JoaoMarcelopdf&layout=compact&theme=radical)](https://github.com/JoaoMarcelopdf)
+
 
 <!--
 **JoaoMarcelopdf/JoaoMarcelopdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
