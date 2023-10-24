@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá Bão?
+[![Anurag's GitHub stats](https://status-profile-git-main-joaomarcelopdfs-projects.vercel.app/api?username=JoaoMarcelopdf)](https://github.com/JoaoMarcelopdf)
 
 <!--
 **JoaoMarcelopdf/JoaoMarcelopdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..--!>
+
